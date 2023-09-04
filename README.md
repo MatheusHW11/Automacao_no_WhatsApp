@@ -1,2 +1,2 @@
 # Automacao_no_WhatsApp
-Automação de mensagens no whatsapp.
+Neste projeto, utilizando a linguagem Python, criei uma automação para o encaminhamento de mensagens. Para isso, utilizei as bibliotecas Selenium e WebDriver. O programa encaminha mensagens de 5 em 5 contatos da sua lista. Lembre-se de que, para personalizar a lista de contatos, é necessário fazer as alterações no código-fonte, na variável 'lista_contatos'.
